@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T19:22:08Z" name="United Test Suite" finished-at="2023-03-29T19:22:08Z" duration-ms="1">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T19:22:08Z" name="HomePage" finished-at="2023-03-29T19:22:08Z" duration-ms="1">
+    </test> <!-- HomePage -->
+  </suite> <!-- United Test Suite -->
+  <suite started-at="2023-03-29T19:22:08Z" name="Walmart Test Suite" finished-at="2023-03-29T19:22:08Z" duration-ms="0">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T19:22:08Z" name="HomePage" finished-at="2023-03-29T19:22:08Z" duration-ms="0">
+    </test> <!-- HomePage -->
+  </suite> <!-- Walmart Test Suite -->
+  <suite started-at="2023-03-29T19:22:08Z" name="Geico Test Suite" finished-at="2023-03-29T19:22:08Z" duration-ms="9">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T19:22:08Z" name="HomePage" finished-at="2023-03-29T19:22:08Z" duration-ms="9">
+    </test> <!-- HomePage -->
+  </suite> <!-- Geico Test Suite -->
+</testng-results>
